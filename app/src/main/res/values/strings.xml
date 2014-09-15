@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Battle</string>
+    <string name="error_message">That\'s a no go^^</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="emoji">\\(>o&lt;)/</string>
+    <string name="emoji1">o(>o&lt;)o</string>
+
+</resources>

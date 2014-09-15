@@ -39,9 +39,15 @@ public class Main extends Activity {
     //Play button//
     public void launchGame(View view) {
         //launch game//
-    Intent intent = new Intent(this, GameActivity.class);
-    startActivity(intent);
+        Intent intent = new Intent(this, GameActivity.class);
+        startActivity(intent);
 
+    }
+    
+    //Launch settings activity when settingsButton = pressed//
+    public void SettingsActivity(View view) {
+        Intent intent = new Intent(this, settignsActivity.class);
+        startActivity(intent);
     }
 
 }

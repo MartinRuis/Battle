@@ -39,4 +39,12 @@
         android:layout_alignParentLeft="false"
         android:layout_alignParentRight="false" />
 
+    <Button
+        android:layout_width="128dp"
+        android:layout_width="128dp"
+        android:background="@drawable/settingsButton"
+        android:id="@+id/settingsButton"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:onClick="SettingsActivity"
 </RelativeLayout>
